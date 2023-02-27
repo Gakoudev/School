@@ -25,7 +25,7 @@ Comptedao vas implémenté les ces méthodes
 
 l'annotation @Stateless signifie qu'il s'agit d'un bean sans état.
 
-Pour la partie web, nous avons eu à traiter un exemple détailler sans les EJB voici le lien: https://github.com/Gakoudev/securityweb La différence réside dans le fait que si le projet est lié à un projet EJB, il de mettre l'annotaion @EJB devant l'interface que l'on décide manipulé pour accéder aux
+Pour la partie web, nous avons eu à traiter un exemple détailler sans les EJB voici le lien: https://github.com/Gakoudev/securityweb. La différence réside dans le fait que si le projet est lié à un projet EJB, il faut mettre l'annotaion @EJB devant l'interface que l'on souhaite manipulé pour accéder aux
 données.Voici une illustration :
 
 <img width="205" alt="image" src="https://user-images.githubusercontent.com/98522554/221600995-98d48bf5-9079-4750-a563-3c2c2db77616.png">
