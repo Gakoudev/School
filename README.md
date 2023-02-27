@@ -62,5 +62,4 @@ L'étudiant aurait dû être inscrit pour l'année 2021. Nous allons modifier l'
                   ------------Perspective------------
 Dans ce projet nous avons réaliser 2 points soulever dans les perspective du projet securityweb(https://github.com/Gakoudev/securityweb) à savoir faire le update et
 le delete. Maintenant il faut implémenter la classe Repository comme le fait Spring au lieu de réécrire à chaque fois les mêmes methodes dans les interfaces et leurs
-implémentation.
-
+implémentations.
